@@ -5,6 +5,5 @@
 - 👯 I’m looking to collaborate on starter data science projects
 - 💬 Ask me about ERP platforms and SAP Sales module
 - 📫 How to reach me: sk.farooq96406@gmail.com
-- ⚡ Fun fact: ...
 
 <img src="https://github-readme-stats.vercel.app/api?username=nimblefox&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
