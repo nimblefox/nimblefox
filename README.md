@@ -1,7 +1,7 @@
 ### Hello! My name is Farooq 
 
 - 🔭 I’m currently working on [an open source music generation project](https://github.com/TheSoundOfAIOSR/rg_production)
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently pursuing my Business Analytics degree
 - 👯 I’m looking to collaborate on starter data science projects
 - 📫 How to reach me: sk.farooq96406@gmail.com
 
