@@ -1,8 +1,8 @@
 ### Hello! My name is Farooq 
 
-- 🔭 I’m currently working on [an open source music generation project](https://github.com/TheSoundOfAIOSR/rg_production)
-- 🌱 I’m currently pursuing my Business Analytics degree
-- 👯 I’m looking to collaborate on starter data science projects
-- 📫 How to reach me: sk.farooq96406@gmail.com
+- 🔭 I am currently working on Data Analytics projects
+- 🌱 I am pursuing my Business Analytics degree
+- 👯 I’m looking to collaborate on Data science projects
+- 📫 How to reach me: uxs200013@utdallas.edu
 
 <img src="https://github-readme-stats.vercel.app/api?username=nimblefox&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
